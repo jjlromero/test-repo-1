@@ -8,4 +8,6 @@ Repo start date: Mar 7, 2023
 3. In VS Code, open the local folder via the Open Folder command. 
 4. Clone the remote repo; I used the HTTP address because I didn't have SSH key. 
 5. In VS Code, enter git clone `the http address`.  
-You are now connected and can create commits. 
+You are now connected and can create commits.  
+## Testing from fork  
+If this is successful, it will be added from john89521
